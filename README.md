@@ -47,5 +47,5 @@ A machine learning notebook that classifies smartphone sensor activity data usin
 ## Contact
 
 - GitHub: [@princechandrasingh](https://github.com/princechandrasingh)
-- LinkedIn: Add your LinkedIn URL here
-- Resume: Add your resume or portfolio URL here
+- LinkedIn: https://www.linkedin.com/in/princechandrasingh/
+- Resume: https://princechandrasinghportfolio.netlify.app
