@@ -1,51 +1,51 @@
-# Hi, I'm Prince Chandra Singh
+<p align="center">
+  <img src="assets/profile-banner.svg" width="1200" alt="Prince Chandra Singh — Computer Science, Applied AI, and Software Development" />
+</p>
 
-Computer Science student building backend APIs, mobile apps, machine learning projects, and practical GenAI workflows.
+<p align="center">
+  <a href="https://princechandrasinghportfolio.netlify.app">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/princechandrasingh/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://github.com/princechandrasingh?tab=repositories">Projects</a>
+</p>
 
-## What I Work With
+I'm **Prince Chandra Singh**, a Computer Science student building machine learning experiments, backend APIs, and mobile applications. I enjoy turning a problem into working software, then making the code, evaluation, and documentation easier to understand.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
-![GenAI](https://img.shields.io/badge/GenAI-111827?style=flat)
+My current focus is **Molevanta: Drug Discovery with Deep Learning and Molecular Ensembles**, a computational research project exploring antibacterial activity prediction. It combines molecular fingerprints, graph neural networks, and ensembles, with reproducible experiments and evaluation on molecules with unfamiliar core structures. The repository includes the methods, results, and limitations of the study.
 
-## Featured Projects
+My other work spans Django REST APIs, smartphone activity recognition, and React Native apps. I'm also exploring agentic AI through learning notebooks on tool calling, LangGraph workflows, and retrieval-augmented generation with LlamaIndex.
 
-### Employee Management API
+### 👨‍💻 Project Contributions
 
-A Django REST Framework backend for employee, department, attendance, and performance management with JWT auth, Swagger/ReDoc docs, and dashboard reporting.
+<!-- Keep project descriptions grounded in the linked repositories. -->
 
-- Tech: Python, Django, DRF, Simple JWT, django-filter
-- Shows: REST API design, authentication, relational models, API documentation
-- Repo: [employee_project](https://github.com/princechandrasingh/employee_project)
+| Project | Focus | Tech Stack |
+| --- | --- | --- |
+| **[Molevanta: Drug Discovery with Deep Learning and Molecular Ensembles](https://github.com/princechandrasingh/molevanta-drug-discovery-with-deep-learning-and-molecular-ensembles)** | Computational antibacterial screening; molecular generalization, model comparisons, and reproducible evaluation | Python, PyTorch, RDKit, scikit-learn, Chemprop |
+| **[Employee Management API](https://github.com/princechandrasingh/employee_project)** | Employee, attendance, and performance APIs with JWT authentication and interactive API documentation | Python, Django REST Framework, Simple JWT, SQLite / PostgreSQL |
+| **[Smart Sensing: Human Activity Recognition](https://github.com/princechandrasingh/Smart-Sensing-Human-Activity-Recognition-via-Smartphone-Data)** | Classifying six activities from smartphone sensor data; feature exploration and model comparison | Python, pandas, NumPy, scikit-learn, Jupyter |
+| **[Prince Meeting App](https://github.com/princechandrasingh/Prince-meeting--App)** | Mobile app prototype with navigation, Google sign-in, and Firebase authentication setup | React Native, Expo, TypeScript, Firebase |
+| **[AI Agentic Design Patterns with GenAI](https://github.com/princechandrasingh/AI-Agentic-Design-Pattern-With-GenAI)** | Learning notebooks covering agent loops, search tools, state, checkpointing, and reflection | Python, LangChain, LangGraph, OpenAI, Jupyter |
 
-### Prince Meeting App
+### 🛠️ Skills & Tools
 
-A React Native/Expo meeting app project built with TypeScript and Expo Router.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,django,ts,js,react,firebase,git,github&amp;perline=10&amp;theme=dark" width="560" alt="Python, PyTorch, scikit-learn, Django, TypeScript, JavaScript, React, Firebase, Git, and GitHub" />
+</p>
 
-- Tech: React Native, Expo, TypeScript
-- Shows: mobile UI structure, navigation, app configuration
-- Repo: [Prince-meeting--App](https://github.com/princechandrasingh/Prince-meeting--App)
+| Area | Technologies I work with |
+| --- | --- |
+| **Machine Learning & Molecular Modeling** | PyTorch, scikit-learn, RDKit, Chemprop, pandas, NumPy |
+| **Backend Development** | Django, Django REST Framework, REST APIs, JWT, SQLite, PostgreSQL |
+| **Mobile Development** | React Native, Expo, TypeScript, JavaScript, Firebase Authentication |
+| **Agentic AI · Learning & Exploration** | LangChain, LangGraph, LlamaIndex, tool calling, RAG |
+| **Development Workflow** | Git, GitHub, Jupyter, pytest |
 
-### Smart Sensing Human Activity Recognition
+### 🌱 What I'm Working On
 
-A machine learning notebook that classifies smartphone sensor activity data using accelerometer and gyroscope features.
+- Exploring molecular generalization and documenting the strengths and limits of drug-discovery models.
+- Improving API tests, project setup, and documentation across my portfolio.
+- Learning how to build and evaluate agents through [LangGraph](https://github.com/princechandrasingh/LangGraph) and [LlamaIndex RAG notebooks](https://github.com/princechandrasingh/Agentic-RAG-With-Llamaindex).
 
-- Tech: Python, Jupyter Notebook, scikit-learn
-- Shows: data analysis, feature exploration, model comparison
-- Repo: [Smart-Sensing-Human-Activity-Recognition-via-Smartphone-Data](https://github.com/princechandrasingh/Smart-Sensing-Human-Activity-Recognition-via-Smartphone-Data)
+### 🤝 Let's Connect
 
-## Currently Improving
-
-- Building portfolio-ready READMEs with setup steps, screenshots, and architecture notes
-- Writing tests for backend APIs
-- Cleaning repository hygiene around secrets, generated files, and dependency folders
-- Exploring agentic AI patterns, RAG, LangGraph, and LlamaIndex
-
-## Contact
-
-- GitHub: [@princechandrasingh](https://github.com/princechandrasingh)
-- LinkedIn: https://www.linkedin.com/in/princechandrasingh/
-- Resume: https://princechandrasinghportfolio.netlify.app
+Interested in applied AI, molecular machine learning, or building useful software? Connect with me on [LinkedIn](https://www.linkedin.com/in/princechandrasingh/) or explore my [portfolio](https://princechandrasinghportfolio.netlify.app).
