@@ -1,38 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
   <title id="title">Prince Chandra Singh</title>
-  <desc id="description">Computer Science, Applied AI, and Software Development. An original dark green banner with a connected-node illustration.</desc>
+  <desc id="description">Prince Chandra Singh — Computer Science.</desc>
 
   <!-- A self-contained vector keeps the banner sharp without external fonts or images. -->
-  <rect width="1200" height="320" rx="12" fill="#102622" />
-  <path d="M48 48H1152M48 272H1152" stroke="#39554B" />
-  <rect x="48" y="48" width="64" height="3" fill="#C7E5AA" />
+  <rect width="1200" height="280" rx="12" fill="#102622" />
+  <path d="M48 36H1152M48 244H1152" stroke="#39554B" />
 
-  <text x="48" y="92" fill="#C7E5AA" font-family="'Courier New', monospace" font-size="16" letter-spacing="3">COMPUTER SCIENCE / APPLIED AI</text>
-  <text x="46" y="170" fill="#F5F3E9" font-family="Georgia, 'Times New Roman', serif" font-size="57">Prince Chandra Singh</text>
-  <text x="48" y="216" fill="#C5D5CC" font-family="'Trebuchet MS', sans-serif" font-size="23">Molecular learning. Backend APIs. Mobile apps.</text>
-
-  <!-- Abstract graph motif connects the software and molecular-learning themes. -->
-  <g fill="none" stroke="#6D9480" stroke-width="1.5">
-    <path d="M839 101L908 68L979 108L979 190L908 231L839 191Z" />
-    <path d="M979 108L1052 69L1122 110L1122 191L1052 232L979 190" />
-    <path d="M839 101L908 150L979 108M839 191L908 150L979 190M908 68V150L908 231" opacity="0.5" />
-    <path d="M979 108L1052 150L1122 110M979 190L1052 150L1122 191M1052 69V150L1052 232" opacity="0.5" />
-    <path d="M908 150H1052" stroke="#C7E5AA" />
-  </g>
-  <g fill="#102622" stroke="#91BDA0" stroke-width="2">
-    <circle cx="839" cy="101" r="5" />
-    <circle cx="908" cy="68" r="5" />
-    <circle cx="979" cy="108" r="5" />
-    <circle cx="979" cy="190" r="5" />
-    <circle cx="908" cy="231" r="5" />
-    <circle cx="839" cy="191" r="5" />
-    <circle cx="1052" cy="69" r="5" />
-    <circle cx="1122" cy="110" r="5" />
-    <circle cx="1122" cy="191" r="5" />
-    <circle cx="1052" cy="232" r="5" />
-  </g>
-  <g fill="#C7E5AA">
-    <circle cx="908" cy="150" r="8" />
-    <circle cx="1052" cy="150" r="8" />
-  </g>
+  <text x="600" y="139" text-anchor="middle" fill="#F5F3E9" font-family="Georgia, 'Times New Roman', serif" font-size="62">Prince Chandra Singh</text>
+  <text x="600" y="189" text-anchor="middle" fill="#C7E5AA" font-family="'Trebuchet MS', sans-serif" font-size="25" letter-spacing="2">Computer Science</text>
 </svg>

@@ -1,18 +1,27 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="1200" alt="Prince Chandra Singh — Computer Science, Applied AI, and Software Development" />
+  <img src="assets/profile-banner.svg" width="1200" alt="Prince Chandra Singh — Computer Science" />
 </p>
 
 <p align="center">
   <a href="https://princechandrasinghportfolio.netlify.app">Portfolio</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/princechandrasingh/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:psing74@uis.edu">Email</a> &nbsp; · &nbsp;
   <a href="https://github.com/princechandrasingh?tab=repositories">Projects</a>
 </p>
 
-I'm **Prince Chandra Singh**, a Computer Science student building machine learning experiments, backend APIs, and mobile applications. I enjoy turning a problem into working software, then making the code, evaluation, and documentation easier to understand.
+### About Me
 
-My current focus is **Molevanta: Drug Discovery with Deep Learning and Molecular Ensembles**, a computational research project exploring antibacterial activity prediction. It combines molecular fingerprints, graph neural networks, and ensembles, with reproducible experiments and evaluation on molecules with unfamiliar core structures. The repository includes the methods, results, and limitations of the study.
+I'm an **M.S. Computer Science student at the University of Illinois Springfield**, currently holding a **4.0 GPA**. I'm driven by one simple idea: building software that people enjoy using and that solves real problems.
 
-My other work spans Django REST APIs, smartphone activity recognition, and React Native apps. I'm also exploring agentic AI through learning notebooks on tool calling, LangGraph workflows, and retrieval-augmented generation with LlamaIndex.
+As a **Graduate Assistant in Web Design & Digital Media**, I help manage and maintain a production website used by multiple stakeholders. I translate requirements into clear tasks, deliver updates on schedule, and document changes so teams stay aligned. My work has supported site updates used by hundreds of users each semester, while clearer documentation and testing have helped reduce post-launch issues.
+
+I also serve as a **Graduate Assistant for The Observer**, UIS's student publication, where I manage front-end and back-end operations. I've improved page layouts, resolved media compatibility issues across browsers and devices, and supported consistent publishing workflows. These changes have improved site reliability and student engagement with digital content.
+
+My research at the **UIS Interdisciplinary Scientific AI Supercomputing Hub** has been a highlight. I've built and trained deep learning models for cardiac ultrasound analysis using **U-Net segmentation and CycleGANs**. This work has strengthened my skills in computer vision, data preprocessing, and model evaluation, and deepened my interest in applied AI for healthcare.
+
+Previously, I completed an internship as an **AWS Solution Architect Associate at Ethnotech Academic Solutions**. I worked on cloud architecture design, deployment strategies, and AWS services, gaining hands-on experience with scalable systems and cost-aware solutions.
+
+Outside of coursework, I enjoy hackathons and collaborative tech projects that push me to learn quickly and build better software.
 
 ### 👨‍💻 Project Contributions
 
@@ -29,16 +38,18 @@ My other work spans Django REST APIs, smartphone activity recognition, and React
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,django,ts,js,react,firebase,git,github&amp;perline=10&amp;theme=dark" width="560" alt="Python, PyTorch, scikit-learn, Django, TypeScript, JavaScript, React, Firebase, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,wordpress,html,css,react,nodejs,pytorch,django,aws,docker,linux,mongodb,git,github&amp;perline=8&amp;theme=dark" width="448" alt="Python, Java, JavaScript, WordPress, HTML, CSS, React, Node.js, PyTorch, Django, AWS, Docker, Linux, MongoDB, Git, and GitHub" />
 </p>
 
 | Area | Technologies I work with |
 | --- | --- |
-| **Machine Learning & Molecular Modeling** | PyTorch, scikit-learn, RDKit, Chemprop, pandas, NumPy |
-| **Backend Development** | Django, Django REST Framework, REST APIs, JWT, SQLite, PostgreSQL |
-| **Mobile Development** | React Native, Expo, TypeScript, JavaScript, Firebase Authentication |
-| **Agentic AI · Learning & Exploration** | LangChain, LangGraph, LlamaIndex, tool calling, RAG |
-| **Development Workflow** | Git, GitHub, Jupyter, pytest |
+| **Languages** | Python, Java, JavaScript, SQL |
+| **Web & Frontend Development** | WordPress, HTML, CSS, React, responsive layouts, browser compatibility |
+| **Backend Development** | Node.js, Django REST Framework, REST APIs, MongoDB, SQLite, PostgreSQL |
+| **Cloud & Systems** | AWS, cloud architecture, Docker, Linux |
+| **Deep Learning & Computer Vision** | PyTorch, U-Net, CycleGANs, image segmentation, model evaluation |
+| **Data Analysis & Molecular Modeling** | scikit-learn, pandas, NumPy, RDKit, Chemprop |
+| **Development & Collaboration** | Git, GitHub, technical documentation, Agile, problem solving |
 
 ### 🌱 What I'm Working On
 
@@ -48,4 +59,4 @@ My other work spans Django REST APIs, smartphone activity recognition, and React
 
 ### 🤝 Let's Connect
 
-Interested in applied AI, molecular machine learning, or building useful software? Connect with me on [LinkedIn](https://www.linkedin.com/in/princechandrasingh/) or explore my [portfolio](https://princechandrasinghportfolio.netlify.app).
+Interested in software development, AI, cloud computing, or a potential collaboration? Reach out at **[psing74@uis.edu](mailto:psing74@uis.edu)**, connect with me on [LinkedIn](https://www.linkedin.com/in/princechandrasingh/), or explore my [portfolio](https://princechandrasinghportfolio.netlify.app).
