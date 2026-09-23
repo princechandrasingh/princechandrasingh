@@ -11,17 +11,17 @@
 
 ### About Me
 
-I'm an **M.S. Computer Science student at the University of Illinois Springfield**, currently holding a **4.0 GPA**. I'm driven by one simple idea: building software that people enjoy using and that solves real problems.
+I earned my **M.S. in Computer Science from the University of Illinois Springfield** with a **4.0 GPA**. I'm driven by one simple idea: building software that people enjoy using and that solves real problems.
 
-As a **Graduate Assistant in Web Design & Digital Media**, I help manage and maintain a production website used by multiple stakeholders. I translate requirements into clear tasks, deliver updates on schedule, and document changes so teams stay aligned. My work has supported site updates used by hundreds of users each semester, while clearer documentation and testing have helped reduce post-launch issues.
+My experience as a **Graduate Assistant in Web Design & Digital Media** includes managing and maintaining a production website used by multiple stakeholders, translating requirements into clear tasks, delivering updates on schedule, and documenting changes so teams stay aligned. My work supported site updates used by hundreds of users each semester, while clearer documentation and testing helped reduce post-launch issues.
 
-I also serve as a **Graduate Assistant for The Observer**, UIS's student publication, where I manage front-end and back-end operations. I've improved page layouts, resolved media compatibility issues across browsers and devices, and supported consistent publishing workflows. These changes have improved site reliability and student engagement with digital content.
+My work as a **Graduate Assistant for The Observer**, UIS's student publication, involved front-end and back-end operations. I improved page layouts, resolved media compatibility issues across browsers and devices, and supported consistent publishing workflows. These changes improved site reliability and student engagement with digital content.
 
 My research at the **UIS Interdisciplinary Scientific AI Supercomputing Hub** has been a highlight. I've built and trained deep learning models for cardiac ultrasound analysis using **U-Net segmentation and CycleGANs**. This work has strengthened my skills in computer vision, data preprocessing, and model evaluation, and deepened my interest in applied AI for healthcare.
 
 Previously, I completed an internship as an **AWS Solution Architect Associate at Ethnotech Academic Solutions**. I worked on cloud architecture design, deployment strategies, and AWS services, gaining hands-on experience with scalable systems and cost-aware solutions.
 
-Outside of coursework, I enjoy hackathons and collaborative tech projects that push me to learn quickly and build better software.
+I enjoy hackathons and collaborative tech projects that push me to learn quickly and build better software.
 
 ### 👨‍💻 Project Contributions
 
