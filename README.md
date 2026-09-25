@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://princechandrasinghportfolio.netlify.app">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://princechandrasingh.netlify.app">Portfolio</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/princechandrasingh/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:psing74@uis.edu">Email</a> &nbsp; · &nbsp;
   <a href="https://github.com/princechandrasingh?tab=repositories">Projects</a>
